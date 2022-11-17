@@ -11093,5 +11093,28 @@
         "ic_chain_unselect_dark": "https://i.postimg.cc/13n2cJYq/fsc.png",
         "ic_home_logo": "https://i.postimg.cc/ncbYXTfz/image.png"
     }
-  }
+  },
+  {
+    "name": "Poly Smart Chain Mainnet",
+    "chainId": 6999,
+    "shortName": "PSC",
+    "chain": "PSC",
+    "network": "mainnet",
+    "networkId": 6999,
+    "nativeCurrency": {
+        "name": "PSC",
+        "symbol": "PSC",
+        "decimals": 18
+    },
+    "rpc": [
+        "https://seed0.PolySmartChain.com"
+    ],
+    "faucets": [],
+    "infoURL": "https://www.polysmartchain.com/#/",
+    "explorers": [{
+        "name": "PSC Scan",
+        "url": "https://scan.polysmartchain.com/",
+        "standard": "EIP3091"
+    }]
+}
 ]
